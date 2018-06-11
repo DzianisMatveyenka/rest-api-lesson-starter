@@ -1,0 +1,4 @@
+http://www.baeldung.com/jackson-annotations
+http://www.baeldung.com/jackson-serialize-dates
+
+http://api.jquery.com/jQuery.ajax/
